@@ -5,10 +5,10 @@ public class TypeCastingEx1 {
 		// primitive type 8개
 
 		
-		// 1byte 2byte 4byte 8byte
-		// boolean char
-		// byte short int    long
-		//            float  double
+		// 1byte    2byte  4byte  8byte
+		// boolean  char
+		// byte     short  int    long
+		//                 float  double
 		
 		byte byteValue = 3;
 		short shortValue = 129;
