@@ -2,7 +2,7 @@ package chap02.type;
 
 public class ShortType {
 	public static void main(String[] args) {
-		//short : 2byte
+		//short : 2byte (16bit)
 		short shortValue1;
 		shortValue1 = 32767;
 		System.out.println(shortValue1);
