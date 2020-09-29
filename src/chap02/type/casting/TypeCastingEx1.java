@@ -17,7 +17,7 @@ public class TypeCastingEx1 {
 		
 		// 자동 형변환 : 작은 값에서 큰 값으로
 		shortValue = byteValue;
-		intValue = shortValue;
+		intValue = shortValue;[[]]
 		longValue = intValue;
 		
 		// 강제 형변환 : 큰 값에서 작은 값으로(문제가 생길수 있음_가지고 있는 값을 버려야 할 수 있음)
