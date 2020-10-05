@@ -24,7 +24,7 @@ public class TypeCastingEx1 {
 		longValue = 3333;
 		intValue = (int) longValue;  // 앞에 꼭 명시)
 		System.out.println(intValue);
-		
+		3
 		longValue = 2300000000L;
 		intValue = (int) longValue;  // 앞에 꼭 명시)
 		System.out.println(intValue);
