@@ -17,7 +17,7 @@ public class OperationsPromotionExample {
 		System.out.println("출력문자=" + (char)intValue2);
 		
 		int intValue3 = 10;
-		
+
 		int intValue4 = intValue3/4;
 		System.out.println(intValue4);
 		
