@@ -1,6 +1,6 @@
 package chap04.textbook;
 
-public class ForPrintFromTo10Example {
+public class ForPrintFrom1To10Example {
 	public static void main(String[] args) {
 	
 	// 1~10
