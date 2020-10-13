@@ -7,8 +7,4 @@ public class MyClass {
 	  2. 메소드(method) : 기능에 대한 정보 
 	  3. 생성자(constructor) : 초기화 코드
 	 */
-	
-	
-	
-	}
 }
