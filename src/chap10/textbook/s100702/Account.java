@@ -1,5 +1,7 @@
 package chap10.textbook.s100702;
 
+import chap10.textbook.s100701.BalanceInsufficientException;
+
 public class Account {
 	private long balance;
 	
