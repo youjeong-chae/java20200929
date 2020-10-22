@@ -6,5 +6,6 @@ public class MyApp {
 		KindaCat o2 = new Tiger();
 		
 		KindaCat o3 = new KindaCat();
+		
 	}
 }

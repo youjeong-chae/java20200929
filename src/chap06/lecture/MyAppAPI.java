@@ -1,5 +1,7 @@
 package chap06.lecture;
 
+import java.util.Comparator;
+
 public class MyAppAPI {
 	public static void main(String[] args) {
 		String s = new String("java");
