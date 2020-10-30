@@ -19,6 +19,5 @@ public class Exercise09Scanner {
 		
 		System.out.println("정수출력>");
 		System.out.println(val);
-		
 	}
 }

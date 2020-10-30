@@ -19,3 +19,4 @@ public class Sample1 {
 		names.forEach(s -> System.out.println(s));
 	}
 }
+

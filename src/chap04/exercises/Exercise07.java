@@ -22,7 +22,7 @@ public class Exercise07 {
 				System.out.print("예금액>");
 				String moneyStr1 = scanner.nextLine();
 				int money1 = Integer.valueOf(moneyStr1);
-				balance += money1;
+				balance = balance + money1;
 				break;
 			case "2":
 				System.out.print("출금액>");
